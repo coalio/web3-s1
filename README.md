@@ -19,5 +19,5 @@ how to install and use multiple node.js versions, you should investigate about [
 
 ### Step 3. Run the index.js script
 
-`node index.js` and you should be ready to go!
+`npm install` to install the modules, then `node index.js` and you should be ready to go!
 
